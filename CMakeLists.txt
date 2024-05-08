@@ -1,11 +1,9 @@
 cmake_minimum_required(VERSION 3.28)
-project(MIgor_PPA2313)
+project(PPA2313)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 26)
 
-include_directories(Year-1/Semester-2/Homework-10/headers)
-
-add_executable(MIgor_PPA2313
+add_executable(PPA2313
 #        Year-1/Semester-1/Homework-1/Exercise-1.cpp
 #        Year-1/Semester-1/Homework-1/Exercise-2.cpp
 #        Year-1/Semester-1/Homework-1/Exercise-3.cpp
