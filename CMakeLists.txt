@@ -186,6 +186,6 @@ add_executable(PPA2313
 #        Year-1/Semester-2/Homework-9/Exercise-2.cpp
 #        Year-1/Semester-2/Homework-9/Exercise-3.cpp
 
-#        Year-1/Semester-2/Homework-10/src/main.cpp
+        Year-1/Semester-2/Homework-10/src/main.cpp
 
 )

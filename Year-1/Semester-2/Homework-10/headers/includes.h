@@ -1,5 +1,5 @@
-#ifndef MIGOR_PPA2313_INCLUDES_H
-#define MIGOR_PPA2313_INCLUDES_H
+#ifndef PPA2313_INCLUDES_H
+#define PPA2313_INCLUDES_H
 
 
 #include "conio.h"
@@ -13,4 +13,4 @@
 using namespace std;
 
 
-#endif //MIGOR_PPA2313_INCLUDES_H
+#endif //PPA2313_INCLUDES_H
